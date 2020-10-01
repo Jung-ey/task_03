@@ -12,5 +12,5 @@
     * The object must have a `restaurant_name` and `food_type`. Add your favorite restaurant.
     * Render the object in the template provided to the view.
 8. The URLs for these views have already been provided for you. You do not need to create them.
-9. Pass the tests (python manage.py test).
+9. Pass the tests with python code(python manage.py test).
 10. Push your code.
